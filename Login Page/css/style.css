@@ -155,3 +155,16 @@ i{
         width: 90%;
     }
 }
+
+@media (max-width:568px){
+    .container{
+        width: 90%;
+    }
+
+    .image {
+        display: none;
+    }
+    .input-group{
+        width: 90%;
+    }
+}
