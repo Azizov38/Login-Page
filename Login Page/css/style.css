@@ -144,11 +144,11 @@ i{
     }
 
     .login-area{
-        padding: 1rem;
+        padding: .5rem;
     }
 
     .container{
-        width: 50%;
+        width: 90%;
     }
 
     .input-group{
